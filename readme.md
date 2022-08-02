@@ -16,4 +16,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 3. after that go to the root directory of the project and type docker-compose up command to run the project
 
-4. done
+4. donee
